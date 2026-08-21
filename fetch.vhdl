@@ -27,3 +27,6 @@ begin
         end if;
     end process;   
 end model;
+
+-- THERE SHOULD BE FOUR THINGS ADDRESSS FROM PC ,2 ADDRESS TO INSTRUCTION MEMORY ,3 DATA FROM MEMORY ,4 DATA TO DECODER 
+-- Define how  instruction data is getting data from instruction address of instruction memory , Define the functionality of it.

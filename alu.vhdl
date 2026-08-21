@@ -46,3 +46,4 @@ begin
         end case;
     end process;
 end functioning;  
+-- in the instruction format The institution the opcode has seven bits but in alu we any particular instruction for example add or subtract is characterised or Identified with five bits why is that so 
