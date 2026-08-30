@@ -11,15 +11,15 @@ package Alu_ip is
         Constant AND_ : Alu_op:="00101";
         Constant OR_  : Alu_op:="00110";
         Constant NAND_: Alu_op:="00111";
-        Constant XOR_ : Alu_op:="01001";
-        Constant SLLI : Alu_op:="01010";
-        Constant SRLI : Alu_op:="01011";
-        Constant SLAI : Alu_op:="01001";
-        Constant SLL  : Alu_op:="01010";
-        Constant SRL  : Alu_op:="01011";
-        Constant SLA  : Alu_op:="01100";
-        Constant SLT  : Alu_op:="01101";
-        Constant SLTU : Alu_op:="01110";
+        Constant XOR_ : Alu_op:="01000";
+        Constant SLLI : Alu_op:="01001";
+        Constant SRLI : Alu_op:="01010";
+        Constant SLAI : Alu_op:="01011";
+        Constant SLL  : Alu_op:="01100";
+        Constant SRL  : Alu_op:="01101";
+        Constant SLA  : Alu_op:="01110";
+        Constant SLT  : Alu_op:="01111";
+        Constant SLTU : Alu_op:="10000";
 end package Alu_ip;
 package body Alu_ip is
 end  package body Alu_ip;
